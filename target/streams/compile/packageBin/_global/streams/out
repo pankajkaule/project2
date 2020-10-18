@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/pnkj/IdeaProjects/project2/target/scala-2.13/project2_2.13-0.1.jar ...[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	demo[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pnkj/IdeaProjects/project2/target/scala-2.13/classes/demo[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	demo/test[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pnkj/IdeaProjects/project2/target/scala-2.13/classes/demo/test[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	demo/test/Student.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pnkj/IdeaProjects/project2/target/scala-2.13/classes/demo/test/Student.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	demo/test/Test1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pnkj/IdeaProjects/project2/target/scala-2.13/classes/demo/test/Test1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	demo/test/Test1$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pnkj/IdeaProjects/project2/target/scala-2.13/classes/demo/test/Test1$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	demo/Demo.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pnkj/IdeaProjects/project2/target/scala-2.13/classes/demo/Demo.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	demo/Demo$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pnkj/IdeaProjects/project2/target/scala-2.13/classes/demo/Demo$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m[0J
